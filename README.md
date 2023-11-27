@@ -1,3 +1,3 @@
-# Higher level programing
+# HIGHER LEVEL PROGRAMMING
 
-## PYTHON
+I started to learn high level programing languages
