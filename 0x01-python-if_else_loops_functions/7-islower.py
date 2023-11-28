@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-#islower - checks is a character is lowercase
-#Return: true or false
+# slower - checks is a character is lowercase
+# Return: true or false
 
 def islower(c):
 
