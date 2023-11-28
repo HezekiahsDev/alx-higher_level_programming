@@ -8,5 +8,4 @@ def uppercase(str):
             upperCHAR = chr(ord(char) - 32)
         else:
             upperCHAR = char
-            print('{}'.format(upperCHAR), end='')
-        print()
+            print('{}'.format(upperCHAR), end='\n')
