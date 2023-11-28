@@ -10,4 +10,4 @@ def print_last_digit(number):
         return None
 
     # get last digit
-    return (abs(number) % 10)
+    print(abs(number) % 10)
