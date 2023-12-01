@@ -10,4 +10,4 @@ if __name__ == "__main__":
     b = 2
     c = add(a, b)
 
-    print("{:d} + {:d} = {:d}".format(a, b, c))
+    print("{:d} + {:d} = {:d}", a, b, c)
