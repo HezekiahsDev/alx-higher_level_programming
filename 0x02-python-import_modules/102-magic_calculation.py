@@ -5,8 +5,8 @@ def magic_calculation(a, b):
     if a < b:
         magic = add(a, b)
         for i in range(4, 6):
-            magic = add(i, magic)
-        return magic
+            c = add(c, i)
+        return c
     else:
         mag_rev = sub(a, b)
         return mag_rev
