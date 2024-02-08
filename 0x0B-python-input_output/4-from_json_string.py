@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module defines a JSON-to-object function"""
+"""This script defines a function that converts a JSON to object"""
 
 
 import json
@@ -7,4 +7,5 @@ import json
 
 def from_json_string(my_str):
     """Returns the Python object representation of a JSON string"""
-    return json.loads(my_str)
+    cnv_json_string = json.loads
+    return cnv_json_string
