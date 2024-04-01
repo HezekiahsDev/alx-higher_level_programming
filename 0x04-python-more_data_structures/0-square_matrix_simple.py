@@ -2,7 +2,5 @@
 """This script contains a function that initializes a matrix"""
 
 def square_matrix_simple(matrix=[]):
-    """creates a matrix"""
-
     res = [list(map(lambda x: x ** 2, row)) for row in matrix]
     return res
