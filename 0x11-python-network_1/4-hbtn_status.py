@@ -8,4 +8,4 @@ if __name__ == "__main__":
 
     print("Body response:")
     print("\t- type: {}".format(type(fetch_req.text)))
-    print("\t- content: {}".format(r.text))
+    print("\t- content: {}".format(fetch_req.text))
