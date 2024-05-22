@@ -8,6 +8,6 @@ req.get(url, function error, response) {
 		console.log(error);
 	}
 	else {
-		console.log(error);
+		console.log('code:' + ' ' + response.statusCode);
 	}
 });
