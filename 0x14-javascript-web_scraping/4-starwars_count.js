@@ -1,7 +1,7 @@
 #!/usr/bin/node
 // count movies with given character ID
 const request = require('request');
-let num = 0;
+let n = 0;
 
 req.get(process.argv[2], (error, response, body) => {
   if (error) {
