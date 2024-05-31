@@ -2,11 +2,11 @@
 
 // print multiple strings (n = number of occurence)
 
-const n = Math.floor(Number(process.argv[2]));
-if (isNaN(n)) {
+let i = Number(process.argv[2]);
+if (isNaN(i)) {
   console.log('Missing number of occurrences');
-} else {
-  for (let i = 0; i < x; i++) {
+} else if (i > 0) {
+  for (i = 0; i > 0; --i) {
     console.log('C is fun');
   }
 }
