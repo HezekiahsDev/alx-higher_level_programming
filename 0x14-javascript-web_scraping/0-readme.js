@@ -1,5 +1,5 @@
 #!/usr/bin/node
-//read a file
+// read a file
 // require file system
 
 const filesys = require('fs');
