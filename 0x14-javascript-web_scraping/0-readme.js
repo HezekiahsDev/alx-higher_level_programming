@@ -1,7 +1,7 @@
 #!/usr/bin/node
 //read a file
-
 // require file system
+
 const filesys = require('fs');
 
 filesys.readFile(process.argv[2], 'utf-8',
